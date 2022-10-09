@@ -1,6 +1,6 @@
 # Event-Manager
 This is an event manager project which uses Google Civic API with CSV from Ruby.
-** Projet Goals **
+**Projet Goals**
   manipulate file input and output
   read content from a CSV (Comma Separated Value) file
   transform it into a standardized format
